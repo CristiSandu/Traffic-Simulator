@@ -29,3 +29,5 @@ In aceasta tema am simulat mai multe situati de Trafic real.
   La aceast cerinta am folosit cate o cada pentru fiecare directie de mers si o bariera care oresc masinile pana trece trenul, iar apoi pe un singur thred scot din cuada masinile de pe fiecare sens.
 
 ### [Enunt](https://github.com/CristiSandu/Traffic-Simulator/blob/main/Tema2%20-%20Enunt.pdf)
+
+[**Repo-up principal al materiei APD**](https://github.com/CristiSandu/APD)
